@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-👋 Hi there! I'm **Marly Adel** – a Front-End Developer passionate about building user-friendly, performant, and responsive web applications.   
+👋 Hi there! I'm **Marly Adel** – a Front-End Developer passionate about building user-friendly, performant, and responsive web apps.   
 💻 Skilled in **HTML, CSS, JavaScript, React**, and currently diving into **Next.js & TypeScript**.  
 🎨 I enjoy turning designs into clean, interactive UIs using **Tailwind CSS** and **Bootstrap**.  
 🚀 Always learning new tools and improving my skills to build better web solutions. 
