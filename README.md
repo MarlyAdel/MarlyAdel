@@ -1,4 +1,4 @@
-<h1 align="center" >Hi There! I'm <strong style="color:purple">Marly Adel</strong></h1>
+<h1 align="center" >Hi There! I'm <strong style="color:red">Marly Adel</strong></h1>
 
 <h2 align="center">💻 Front-End Developer | Building Modern Web Interfaces</h2>
 
