@@ -1,4 +1,4 @@
-<h1 align="center" >Hi There! I'm <strong style="color:red">Marly Adel</strong></h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=400&lines=Hi+There!+I'm+Marly+Adel" alt="Typing SVG" />
 
 <h2 align="center">💻 Front-End Developer | Building Modern Web Interfaces</h2>
 
